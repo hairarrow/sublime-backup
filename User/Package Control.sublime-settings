@@ -5,6 +5,7 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"ColorSchemeSelector",
 		"CSScomb",
 		"Dayle Rees Color Schemes",
 		"Emmet",
@@ -21,7 +22,10 @@
 		"SublimeLinter",
 		"Theme - Cobalt2",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized",
+		"Theme - Spacegray",
+		"TrailingSpaces"
 	],
 	"repositories":
 	[

@@ -11,9 +11,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Gutter Color",
 		"SublimeLinter",
-		"Sound"
+		"Sound",
+		"Gutter Color"
 	],
 	"indent_guide_options":
 	[
