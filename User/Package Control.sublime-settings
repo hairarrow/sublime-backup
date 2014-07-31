@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSScomb",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"LiveReload",
+		"Minifier",
+		"Origami",
+		"SCSS",
+		"SideBarEnhancements",
+		"Sound",
+		"Sublime-CSS3",
+		"SublimeLinter",
+		"Theme - Cobalt2",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}
