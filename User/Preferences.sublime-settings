@@ -7,13 +7,13 @@
 	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"draw_white_space": "all",
 	"font_face": "M+ 1m light",
-	"font_size": 13,
+	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Gutter Color",
 		"SublimeLinter",
-		"Sound",
-		"Gutter Color"
+		"Sound"
 	],
 	"indent_guide_options":
 	[
